@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:shownIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="none"
+android:id="@+id/topMenuButtons"
+        >
+        <item
+            android:id="@+id/nav_main_coll"
+            android:icon="@drawable/nav_main_coll"
+            android:title="Песни" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/nav_fav"
+            android:title="@string/nav_fav" />
+
+    </group>
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/bottomMenuButtons">
+
+        <item
+            android:id="@+id/nav_site"
+            android:icon="@drawable/nav_site"
+            android:title="@string/nav_site" />
+        <item
+            android:id="@+id/nav_youtube"
+            android:icon="@drawable/nav_youtube"
+            android:title="@string/nav_youtube"
+            />
+
+        <item
+            android:id="@+id/nav_bug"
+            android:icon="@drawable/nav_bug"
+            android:title="@string/nav_bug"
+            />
+
+
+    </group>
+
+    <!--  App version text field at the bottom of the list
+     <group>
+         <item
+             android:id="@+id/nav_version_name"
+             android:title="@string/app_version"
+             />
+     </group>
+     -->
+
+</menu>

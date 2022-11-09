@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/addSongOpt"
+        android:title="@string/add_song_opt"
+        />
+    <item android:id="@+id/editSongOpt"
+        android:title="@string/edit_song_opt"
+        />
+    <item android:id="@+id/removeSongOpt"
+        android:title="@string/remove_song_opt"
+        />
+</menu>

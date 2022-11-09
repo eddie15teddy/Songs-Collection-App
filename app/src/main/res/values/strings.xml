@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Сборник Молодежных Песен</string>
+
+    <string name="nav_my_coll">Мои песни</string>
+    <string name="nav_fav">Избранные</string>
+    <string name="nav_bug">Сообщить об ошибке</string>
+    <string name="nav_site">Наш сайт</string>
+    <string name="nav_youtube">Наш Ютуб</string>
+    <string name="nav_settings">Насторойки</string>
+    <string name="app_version">Версия: Май 5, 2021</string>
+
+    <string name="search">Поиск</string>
+    <string name="search_by_name">Поиск по тексту</string>
+
+    <string name="add_song_opt">Добавить</string>
+    <string name="edit_song_opt">Редактировать</string>
+    <string name="remove_song_opt">Удалить</string>
+
+    <string name="save">Сохранить</string>
+
+    <!--These are for the NavigationDrawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
